@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "adb": "adb reverse tcp:8081 tcp:8081 && adb reverse tcp:9090 tcp:9090"
   },
   "dependencies": {
     "react": "16.9.0",
