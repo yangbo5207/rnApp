@@ -7,10 +7,20 @@
  */
 
 import React from 'react';
-import {Text, View} from 'react-native';
+import {ActivityIndicator, Text, View, StyleSheet} from 'react-native';
 
 export default function App() {
   return (
-    <View><Text>hello world.</Text></View>
+    <View style={st.container}>
+      <ActivityIndicator />
+    </View>
   );
-};
+}
+
+const st = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+})

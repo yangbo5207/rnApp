@@ -1,0 +1,8 @@
+{
+  "env": "dev",
+  "codePushKey": {
+    "ios": "pxqC8Gwr3QR7ZHJewdYZ2V_8MRSBrkxoUF6cV",
+    "android": "JTuycpghxh__L9yjgqrrrPot-0N8Bkxr8Y6qN"
+  },
+  "ip": "192.168.0.167"
+}

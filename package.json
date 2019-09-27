@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.1"
+    "react-native": "0.61.1",
+    "react-native-device-info": "^3.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
@@ -35,6 +36,7 @@
     "metro-react-native-babel-preset": "^0.56.0",
     "react-native-typescript-transformer": "^1.2.13",
     "react-test-renderer": "16.9.0",
+    "reactotron-react-native": "^4.0.2",
     "ts-jest": "^24.1.0",
     "typescript": "^3.6.3"
   },

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sdkAppId</key>
+	<integer>1400138769</integer>
+	<key>busiId</key>
+	<real>12763</real>
+	<key>accountType</key>
+	<string>38034</string>
+	<key>logLevel</key>
+	<integer>5</integer>
+	<key>sound</key>
+	<string>im.caf</string>
+</dict>
+</plist>
