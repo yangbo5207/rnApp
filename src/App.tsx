@@ -8,12 +8,11 @@
 
 import React from 'react';
 import {Text, View, StyleSheet} from 'react-native';
+import TabNavigator from './TabNavigator';
 
 export default function App() {
   return (
-    <View style={st.container}>
-      <Text>今天天气不错呢。</Text>
-    </View>
+    <TabNavigator />
   );
 }
 
