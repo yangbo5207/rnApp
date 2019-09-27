@@ -7,12 +7,12 @@
  */
 
 import React from 'react';
-import {ActivityIndicator, Text, View, StyleSheet} from 'react-native';
+import {Text, View, StyleSheet} from 'react-native';
 
 export default function App() {
   return (
     <View style={st.container}>
-      <ActivityIndicator />
+      <Text>今天天气不错呢。</Text>
     </View>
   );
 }
