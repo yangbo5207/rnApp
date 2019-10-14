@@ -22,4 +22,4 @@ const st = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center'
   }
-})
+});
